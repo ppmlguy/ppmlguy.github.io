@@ -7,6 +7,8 @@ I am an associate professor in School of Computing at University of Georgia. Bef
 
 ## Research Interests
 
+My primary research interests lie in the field of machine learning, numerical optimization, and their interaction with statistical data privacy (such as differential privacy). I work on developing new statistical models and algorithms for performing various machine learning (including deep learning) tasks on sensitive data. The research topics of my interests are listed below, but not limited to: 
+
 - **Numerical Optimization:** convex/nonconvex stochastic optimization, large-scale optimization for ML
 - **Machine Learning:** deep learning, generative models, LLM fine-tuning
 - **Statistical Privacy** differential privacy, privacy-preserving statistical estimation
