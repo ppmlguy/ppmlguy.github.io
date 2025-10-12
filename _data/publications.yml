@@ -162,7 +162,7 @@ main:
     conference_short: KDD
     conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining 2018
     pdf: https://arxiv.org/abs/1808.09501
-    notes: Acceptance rate: 10.8%
+    notes: Acceptance rate 10.8%
 
   - title: "Differentially Private Variance Reduced Gradient"
     authors: <strong>Jaewoo Lee</strong>
@@ -187,14 +187,14 @@ main:
     conference_short: KDD
     conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD, 2015
     pdf: https://dl.acm.org/doi/10.1145/2783258.2783366
-    notes: Acceptance rate: 19.4%
+    notes: Acceptance rate 19.4%
 
   - title: "Top-k Frequent Itemsets via Differentially Private FP-trees"
     authors: <strong>Jaewoo Lee</strong> and Chris Clifton
     conference_short: KDD
     conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD, 2014
     pdf: https://dl.acm.org/doi/10.1145/2623330.2623723
-    notes: Acceptance rate: 14.6%
+    notes: Acceptance rate 14.6%
 
   - title: "iData: A Community Geospatial Data Sharing Environment to Support Data-driven Science"
     authors: Rajesh Kalyanam, Lan Zhao, Carol X. Song, Yuet Ling Wong, <strong>Jaewoo Lee</strong>, and Nelson B. Villoria
@@ -206,7 +206,7 @@ main:
     conference_short: KDD
     conference: ACM SIGKDD international conference on Knowledge discovery and data mining, KDD, 2012
     pdf: https://dl.acm.org/doi/10.1145/2339530.2339695
-    notes: Acceptance rate: 17.6%
+    notes: Acceptance rate 17.6%
 
   - title: "How much is enough? Choosing ϵ for Differential Privacy"
     authors: <strong>Jaewoo Lee</strong> and Chris Clifton
