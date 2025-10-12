@@ -1,0 +1,22 @@
+main:
+
+  - title: "NysAct: A Scalable Preconditioned Gradient Descent Using Nyström Approximation"
+    authors: Hyunseok Seung, <strong>Jaewoo Lee</strong>, and Hyunsuk Ko
+    conference_short: BigData
+    conference: IEEE International Conference on BigData 2024
+    pdf: https://arxiv.org/abs/2506.08360
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: "An Adaptive Method Stabilizing Activations for Enhanced Generalization"
+    authors: Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko
+    conference_short: ICDMW 
+    conference: IEEE ICDM Workshop on Optimization Based Techniques for Emerging Data Mining Problems
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
