@@ -25,7 +25,7 @@ main:
   - title: "An Adaptive Method Stabilizing Activations for Enhanced Generalization"
     authors: Hyunseok Seung, <strong>Jaewoo Lee</strong>, and Hyunsuk Ko
     conference_short: ICDMW 
-    conference: IEEE ICDM Workshop on Optimization Based Techniques for Emerging Data Mining Problems 2024
+    conference: IEEE ICDM Workshop on Optimization Based Techniques for Emerging Data Mining Problems (ICDMW) 2024
     pdf: https://arxiv.org/abs/2506.08353
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
