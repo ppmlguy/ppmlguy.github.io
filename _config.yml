@@ -2,17 +2,20 @@
 title: Jaewoo Lee
 position: Associate Professor
 affiliation: University of Georgia
+affiliation_logo: ./assets/img/uga-logo.png
+affiliation_link: https://www.uga.edu/
 email: jaewoo (dot) lee (at) uga.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: UGA, Jaewoo Lee, differential privacy, stochastic optimizations, deep generative models, statistical estimation
-description: A researcher working on privacy-preserving machine learning
+description: Jaewoo Lee is an associate professor at the University of Georgia.
 canonical: https://ppmlguy.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=kqgVwE8AAAAJ&hl=en
+github_link: https://github.com/ppmlguy/
 cv_link: assets/files/curriculum_vitae.pdf
 linkedin: https://www.linkedin.com/in/jaewoo-lee-634b6755/
 
@@ -53,3 +56,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - vendor/
