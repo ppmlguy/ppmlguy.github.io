@@ -2,7 +2,7 @@
 title: Jaewoo Lee
 position: Associate Professor
 affiliation: University of Georgia
-affiliation_logo: ./assets/img/uga-logo.png
+affiliation_logo: /assets/img/uga-logo.png
 affiliation_link: https://www.uga.edu/
 email: jaewoo (dot) lee (at) uga.edu
 
@@ -21,9 +21,9 @@ linkedin: https://www.linkedin.com/in/jaewoo-lee-634b6755/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/headshot.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: /assets/img/headshot.jpg
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -36,6 +36,7 @@ auto_dark_mode: false
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Sans Serif" # or "Serif"
+
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

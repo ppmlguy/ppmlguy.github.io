@@ -1,21 +1,25 @@
 main:
+  - title: "Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-tuning"
+    authors: Hyunseok Seung, <strong>Jaewoo Lee</strong>, and Hyunsuk Ko
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2026    
 
   - title: "Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning"
     authors: Qitao Tan, Jun Liu, Zheng Zhan, Caiwen Ding, Yanzhi Wang, Xiaolong Ma, <strong>Jaewoo Lee</strong>, Jin Lu, and Geng Yuan
     conference_short: NeurIPS
-    conference: Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
+    conference: Annual Conference on Neural Information Processing Systems, 2025
     pdf: https://arxiv.org/pdf/2502.03304
       
   - title: "MAC: An Efficient Gradient Preconditioning using Mean Activation Approximated Curvature"
     authors: Hyunseok Seung, <strong>Jaewoo Lee</strong>, and Hyunsuk Ko
     conference_short: ICDM
-    conference: IEEE International Conference on Data Mining (ICDM) 2025
+    conference: IEEE International Conference on Data Mining, 2025
     pdf: https://arxiv.org/pdf/2506.08464  
 
   - title: "NysAct: A Scalable Preconditioned Gradient Descent Using Nyström Approximation"
     authors: Hyunseok Seung, <strong>Jaewoo Lee</strong>, and Hyunsuk Ko
     conference_short: BigData
-    conference: IEEE International Conference on BigData (BigData) 2024
+    conference: IEEE International Conference on BigData, 2024
     pdf: https://arxiv.org/abs/2506.08360
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -25,7 +29,7 @@ main:
   - title: "An Adaptive Method Stabilizing Activations for Enhanced Generalization"
     authors: Hyunseok Seung, <strong>Jaewoo Lee</strong>, and Hyunsuk Ko
     conference_short: ICDMW 
-    conference: IEEE ICDM Workshop on Optimization Based Techniques for Emerging Data Mining Problems (ICDMW) 2024
+    conference: IEEE ICDM Workshop on Optimization Based Techniques for Emerging Data Mining Problems, 2024
     pdf: https://arxiv.org/abs/2506.08353
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -36,23 +40,25 @@ main:
   - title: "PPSA: Polynomial Private Stream Aggregation for Time-Series Data Analysis"
     authors: Antonia Januszewicz, Daniela Medrano Gutierrez, Nirajan Koirala, Jiachen Zhao, Jonathan Takeshita, <strong>Jaewoo Lee</strong>, Taeho Jung
     conference_short: SecureComm 
-    conference: EAI International Conference on Security and Privacy in Communication Networks (SecureComm) 2024
+    conference: EAI International Conference on Security and Privacy in Communication Networks, 2024
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-94445-1_2
 
   - title: "Diffusion Augmented Flows: Combining Normalizing Flows and Diffusion Models for Accurate Latent Space Mapping"
     authors: Soham Sajekar, Sanika Katekar, and <strong>Jaewoo Lee</strong>
-    conference_short: FICC 2024
-    conference: Future of Information and Communication Conference (FICC) 2024
+    conference_short: FICC
+    conference: Future of Information and Communication Conference, 2024
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-53963-3_37
 
   - title: "Deep compression network for enhancing numerical reconstruction quality of full-complex holograms"
     authors: Juyeon Seo, <strong>Jaewoo Lee</strong>, Juhyun Lee, and Hyunsuk Ko
+    conference_short: Opt. Express
     conference: Opt. Express, 31(15):24573–24597, Jul 2023
     pdf: https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-15-24573
     notes: IF 3.2
 
   - title: "Performance analysis of versatile video coding for encoding phase-only hologram videos"
     authors: Yongrok Kim, Won Shin, <strong>Jaewoo Lee</strong>, Kwan-Jung Oh, and Hyunsuk Ko
+    conference_short: Opt. Express
     conference: Opt. Express, 31(23):38854–38877, Nov 2023
     pdf: https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-23-38854
     notes: IF 3.2
@@ -65,7 +71,7 @@ main:
   - title: "MBAG: A Scalable Mini-Block Adaptive Gradient Method for Deep Neural Networks."
     authors: <strong>Jaewoo Lee</strong>
     conference_short: BigData
-    conference: IEEE International Conference on Big Data (BigData), 2022
+    conference: IEEE International Conference on Big Data, 2022
     pdf: https://ieeexplore.ieee.org/document/10020262
 
   - title: "Differentially Private Normalizing Flows for Synthetic Tabular Data Generation"
@@ -83,72 +89,72 @@ main:
   - title: "Differentially Private Goodness-of-Fit Tests for Continuous Variables"
     authors: Seung Woo Kwak, Jeongyoun Ahn, <strong>Jaewoo Lee</strong>, and Cheolwoo Park
     conference_short: ECOSTA
-    conference: Econometrics and Statistics (ECOSTA), Volume 31, July 2024, Pages 81-99
+    conference: Econometrics and Statistics, Volume 31, July 2024, Pages 81-99
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S2452306221001143      
 
   - title: "Performance Testing for Cloud Computing with Dependent Data Bootstrapping"
     authors: Sen He, Tianyi Liu, Palden Lama, <strong>Jaewoo Lee</strong>, In Kee Kim, and Wei Wang
     conference_short: ASE
-    conference: IEEE/ACM International Conference on Automated Software Engineering (ASE) 2021
+    conference: IEEE/ACM International Conference on Automated Software Engineering, 2021
     pdf: https://ieeexplore.ieee.org/document/9678687     
 
   - title: "Nonsuicidal self-injury on Instagram: Examining hashtag trends"
     authors: Amanda Giordano, Lindsay Lundeen, Kelly Wester, <strong>Jaewoo Lee</strong>, Samuel Vickers, Michael Schmit, and In Kee Kim
-    conference: International Journal for the Advancement of Counselling 2021
+    conference: International Journal for the Advancement of Counselling, 2021
     pdf: https://link.springer.com/article/10.1007/s10447-021-09451-z
 
   - title: "Scaling up Differentially Private Deep Learning with Fast Per-example Gradient Clipping"
     authors: <strong>Jaewoo Lee</strong> and Daniel Kifer
     conference_short: PETS
-    conference: Privacy Enhancing Technologies (PETS), 2021(1)
+    conference: Privacy Enhancing Technologies, 2021(1)
     pdf: https://petsymposium.org/popets/2021/popets-2021-0008.pdf
 
   - title: "Stochastic Adaptive Line Search for Differentially Private Optimization"
     authors: Chen Chen and <strong>Jaewoo Lee</strong>
     conference_short: BigData
-    conference: IEEE International Conference on Big Data (BigData), 2020
+    conference: IEEE International Conference on Big Data, 2020
     pdf: https://ieeexplore.ieee.org/document/9378011
 
   - title: "Towards a Practical Differentially Private Collaborative Phone Blacklisting System"
     authors: Daniele Ucci, Roberto Perdisci, <strong>Jaewoo Lee</strong>, and Mustaque Ahamad
     conference_short: ACSAC
-    conference: Annual Computer Security Applications Conference (ACSAC), 2020
+    conference: Annual Computer Security Applications Conference, 2020
     pdf: https://dl.acm.org/doi/10.1145/3427228.3427239
 
   - title: "Renyi Differentially Private ADMM for Non-Smooth Regularized Optimization"
     authors: Chen Chen and <strong>Jaewoo Lee</strong>
     conference_short: CODASPY
-    conference: ACM Conference on Data and Application Security and Privacy (CODASPY), 2020
+    conference: ACM Conference on Data and Application Security and Privacy, 2020
     pdf: https://arxiv.org/abs/1909.08180
 
   - title: "A Self-Optimized Generic Workload Prediction Framework for Cloud Computing"
     authors: Vinodh K. Jayakumar, <strong>Jaewoo Lee</strong>, In Kee Kim, and Wei Wang
     conference_short: IPDPS
-    conference: IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2020
+    conference: IEEE International Parallel and Distributed Processing Symposium, 2020
     pdf: https://ieeexplore.ieee.org/document/9139813
 
   - title: "Differentially private deep learning with direct feedback alignment"
     authors: <strong>Jaewoo Lee</strong> and Daniel Kifer
-    conference_short: CoRR
-    conference: ArXiv
+    conference_short: ArXiv
+    conference: ArXiv, 2019
     pdf: https://arxiv.org/abs/2010.03701
 
   - title: "Selfharm on Instagram: Quantitative Analysis and Classification of Non-Suicidal Self-Injury"
     authors: Lei Xian, Samuel D. Vickers, Amanda L. Giordano, <strong>Jaewoo Lee</strong>, In Kee Kim, and Lakshmish Ramaswamy
     conference_short: CogMI
-    conference: IEEE International Conference on Cognitive Machine Intelligence (CogMI), 2019
+    conference: IEEE International Conference on Cognitive Machine Intelligence, 2019
     pdf: https://ieeexplore.ieee.org/document/8998990
 
   - title: "Renyi Differentially Private ERM for Smooth Objectives"    
     authors: Chen Chen, <strong>Jaewoo Lee</strong>, and Daniel Kifer 
     conference_short: AISTATS
-    conference: International Conference on Artificial Intelligence and Statistics (AISTATS), 2019
+    conference: International Conference on Artificial Intelligence and Statistics, 2019
     pdf: https://proceedings.mlr.press/v89/chen19e.html
 
   - title: "Differentially Private Confidence Intervals for Empirical Risk Minimization"
     authors: Yue Wang, Daniel Kifer, and <strong>Jaewoo Lee</strong>
     conference_short: JPC
-    conference: Journal of Privacy and Confidentiality (JPC), 9(1), 2019
+    conference: Journal of Privacy and Confidentiality, 9(1), 2019
     pdf: https://arxiv.org/abs/1804.03794        
 
   - title: "Statistical Approximating Distributions Under Differential Privacy"
@@ -160,14 +166,14 @@ main:
   - title: "Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget"
     authors: <strong>Jaewoo Lee</strong> and Daniel Kifer
     conference_short: KDD
-    conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2018
+    conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2018
     pdf: https://arxiv.org/abs/1808.09501
     notes: Acceptance rate 10.8%
 
   - title: "Differentially Private Variance Reduced Gradient"
     authors: <strong>Jaewoo Lee</strong>
     conference_short: ICTCS
-    conference: International Conference on New Trends in Computing Sciences (ICTCS) 2017
+    conference: International Conference on New Trends in Computing Sciences, 2017
     pdf: https://ieeexplore.ieee.org/document/8250282
 
   - title: "Postprocessing for Iterative Differentially Private Algorithms"
@@ -179,32 +185,32 @@ main:
   - title: "Differentially Private Hypothesis Testing, Revisited"
     authors: Yue Wang, Jaewoo Lee, and Daniel Kifer
     conference_short: ArXiv
-    conference: ArXiv
+    conference: ArXiv, 2016
     pdf: https://arxiv.org/abs/1511.03376
 
   - title: "Maximum Likelihood Postprocessing for Differential Privacy under Consistency Constraints"
     authors: <strong>Jaewoo Lee</strong>, Yue Wang, and Daniel Kifer
     conference_short: KDD
-    conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2015
+    conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2015
     pdf: https://dl.acm.org/doi/10.1145/2783258.2783366
     notes: Acceptance rate 19.4%
 
   - title: "Top-k Frequent Itemsets via Differentially Private FP-trees"
     authors: <strong>Jaewoo Lee</strong> and Chris Clifton
     conference_short: KDD
-    conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD, 2014
+    conference: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2014
     pdf: https://dl.acm.org/doi/10.1145/2623330.2623723
     notes: Acceptance rate 14.6%
 
   - title: "iData: A Community Geospatial Data Sharing Environment to Support Data-driven Science"
     authors: Rajesh Kalyanam, Lan Zhao, Carol X. Song, Yuet Ling Wong, <strong>Jaewoo Lee</strong>, and Nelson B. Villoria
     conference_short: XSEDE
-    conference: Conference on Extreme Science and Engineering Discovery Environment Gateway to Discovery, XSEDE, 2013
+    conference: Conference on Extreme Science and Engineering Discovery Environment Gateway to Discovery, 2013
       
   - title: "Differential identifiability"
     authors: <strong>Jaewoo Lee</strong> and Chris Clifton
     conference_short: KDD
-    conference: ACM SIGKDD international conference on Knowledge discovery and data mining (KDD), 2012
+    conference: ACM SIGKDD international conference on Knowledge discovery and data mining, 2012
     pdf: https://dl.acm.org/doi/10.1145/2339530.2339695
     notes: Acceptance rate 17.6%
 
@@ -217,13 +223,13 @@ main:
   - title: "Leveraging Query Logs for Schema Mapping Generation in U-MAP"
     authors: Hazem Elmeleegy, Ahmed Elmagarmid, and <strong>Jaewoo Lee</strong>
     conference_short: SIGMOD
-    conference: ACM SIGMOD International Conference on Management of Data (SIGMOD), 2011
+    conference: ACM SIGMOD International Conference on Management of Data, 2011
     pdf: https://dl.acm.org/doi/10.1145/1989323.1989337
 
   - title: "U-MAP: A System for Usage-based Schema Matching and Mapping"
     authors: Hazem Elmeleegy, <strong>Jaewoo Lee</strong>, El Kindi Rezig, Mourad Ouzzani, and Ahmed Elmagarmid 
     conference_short: SIGMOD
-    conference: ACM SIGMOD International Conference on Management of Data (SIGMOD)
+    conference: ACM SIGMOD International Conference on Management of Data, 2011
     notes: demo paper
 
   - title: "Efficiently Tracing Clusters over High-dimensional On-line Data Streams"
@@ -235,6 +241,6 @@ main:
   - title: "A Coarse-grain Grid-based Subspace Clustering Method for Online Multi-dimensional Data Streams"
     authors: <strong>Jae Woo Lee</strong> and Won Suk Lee
     conference_short: CIKM
-    conference: ACM Conference on Information and Knowledge Management (CIKM), 2008
+    conference: ACM Conference on Information and Knowledge Management, 2008
     pdf: https://dl.acm.org/doi/10.1145/1458082.1458366
       
