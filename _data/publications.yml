@@ -2,7 +2,8 @@ main:
   - title: "Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-tuning"
     authors: Hyunseok Seung, <strong>Jaewoo Lee</strong>, and Hyunsuk Ko
     conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence, 2026    
+    conference: AAAI Conference on Artificial Intelligence, 2026
+    notes: Acceptance rate 17.6%
 
   - title: "Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning"
     authors: Qitao Tan, Jun Liu, Zheng Zhan, Caiwen Ding, Yanzhi Wang, Xiaolong Ma, <strong>Jaewoo Lee</strong>, Jin Lu, and Geng Yuan
